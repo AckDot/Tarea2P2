@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Curso
+comment1.params=
+comment1.target=void\ InstruccionesPrograma()
+comment10.params=a
+comment10.target=double\ mayorv2(int[])
+comment2.params=cantidadEstudiantes
+comment2.target=Curso(int)
+comment3.params=
+comment3.target=int[]\ CrearRegistroDeNotasPorEstudiante()
+comment4.params=nota\ estudiante\ a
+comment4.target=void\ a\u00F1adirNotasalRegistroparacadaEstudiante(int,\ int,\ int[])
+comment5.params=registro
+comment5.target=double\ promediodetodaslasnotas(int[])
+comment6.params=registro
+comment6.target=double\ promedioDeNotasdeAprobaciondelaClase(int[])
+comment7.params=a
+comment7.target=double\ CantidadEstudiantesReprobados(int[])
+comment8.params=registro
+comment8.target=double\ CantidadEstudiantesAprobados(int[])
+comment9.params=registro
+comment9.target=double\ MayorNotaDelaClase(int[])
+numComments=11
